@@ -1,7 +1,7 @@
 # Site settings
 title: 想把我写给你听
-SEOTitle: 曾曾的博客 | Athena Blog
-header-img: img/darkpic.jpg
+SEOTitle: 曾曾的博客 | Athena's Blog
+header-img: img/grass.jpg
 email: 824732458@qq.com
 description: "这里是曾曾的个人博客，我的心声，想写给你。"
 keyword: "心声 曾曾 写给你听"
@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "爱写作，爱分享"
+sidebar-about-description: "这是一只梦想当剧作家的搬砖狗"
 sidebar-avatar: /img/WechatIMG2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
